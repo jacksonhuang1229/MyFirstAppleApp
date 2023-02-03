@@ -16,6 +16,12 @@ struct ContentView: View {
             Text("Hello, Rachael!")
             Text("Hello, Julia!")
             Text("Hello, Hanna!")
+            Image("test_coscto_image")
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+//                .frame(width: 10, height: 10 , alignment: .center)
+//                .imageScale(.small)
+//                .foregroundColor(.accentColor)
         }
         .padding()
     }

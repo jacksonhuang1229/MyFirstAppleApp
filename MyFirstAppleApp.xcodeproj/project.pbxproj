@@ -14,6 +14,7 @@
 		61D3AD8A298D786C005AA0DD /* MyFirstAppleAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D3AD89298D786C005AA0DD /* MyFirstAppleAppTests.swift */; };
 		61D3AD94298D786C005AA0DD /* MyFirstAppleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D3AD93298D786C005AA0DD /* MyFirstAppleAppUITests.swift */; };
 		61D3AD96298D786D005AA0DD /* MyFirstAppleAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D3AD95298D786D005AA0DD /* MyFirstAppleAppUITestsLaunchTests.swift */; };
+		61D3ADA3298D8C08005AA0DD /* test_coscto_image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 61D3ADA2298D8C08005AA0DD /* test_coscto_image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		61D3AD8F298D786C005AA0DD /* MyFirstAppleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstAppleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61D3AD93298D786C005AA0DD /* MyFirstAppleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppleAppUITests.swift; sourceTree = "<group>"; };
 		61D3AD95298D786D005AA0DD /* MyFirstAppleAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppleAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		61D3ADA2298D8C08005AA0DD /* test_coscto_image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = test_coscto_image.jpg; path = ../../../../Downloads/test_coscto_image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				61D3AD77298D786A005AA0DD /* MyFirstAppleAppApp.swift */,
 				61D3AD79298D786A005AA0DD /* ContentView.swift */,
+				61D3ADA2298D8C08005AA0DD /* test_coscto_image.jpg */,
 				61D3AD7B298D786C005AA0DD /* Assets.xcassets */,
 				61D3AD7D298D786C005AA0DD /* MyFirstAppleApp.entitlements */,
 				61D3AD7E298D786C005AA0DD /* Preview Content */,
@@ -235,6 +238,7 @@
 			files = (
 				61D3AD80298D786C005AA0DD /* Preview Assets.xcassets in Resources */,
 				61D3AD7C298D786C005AA0DD /* Assets.xcassets in Resources */,
+				61D3ADA3298D8C08005AA0DD /* test_coscto_image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
