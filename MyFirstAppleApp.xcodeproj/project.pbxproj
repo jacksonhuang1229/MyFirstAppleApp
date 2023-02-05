@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61293A90298FCF72006A978A /* 2023-02-03-costco_canada.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 61293A8F298FCF72006A978A /* 2023-02-03-costco_canada.jpg */; };
 		61D3AD78298D786A005AA0DD /* MyFirstAppleAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D3AD77298D786A005AA0DD /* MyFirstAppleAppApp.swift */; };
 		61D3AD7A298D786A005AA0DD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D3AD79298D786A005AA0DD /* ContentView.swift */; };
 		61D3AD7C298D786C005AA0DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61D3AD7B298D786C005AA0DD /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		61293A8F298FCF72006A978A /* 2023-02-03-costco_canada.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2023-02-03-costco_canada.jpg"; sourceTree = "<group>"; };
 		61D3AD74298D786A005AA0DD /* MyFirstAppleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstAppleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61D3AD77298D786A005AA0DD /* MyFirstAppleAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppleAppApp.swift; sourceTree = "<group>"; };
 		61D3AD79298D786A005AA0DD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		61D3AD76298D786A005AA0DD /* MyFirstAppleApp */ = {
 			isa = PBXGroup;
 			children = (
+				61293A8F298FCF72006A978A /* 2023-02-03-costco_canada.jpg */,
 				61D3AD77298D786A005AA0DD /* MyFirstAppleAppApp.swift */,
 				61D3AD79298D786A005AA0DD /* ContentView.swift */,
 				61D3ADA2298D8C08005AA0DD /* test_coscto_image.jpg */,
@@ -236,6 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61293A90298FCF72006A978A /* 2023-02-03-costco_canada.jpg in Resources */,
 				61D3AD80298D786C005AA0DD /* Preview Assets.xcassets in Resources */,
 				61D3AD7C298D786C005AA0DD /* Assets.xcassets in Resources */,
 				61D3ADA3298D8C08005AA0DD /* test_coscto_image.jpg in Resources */,
